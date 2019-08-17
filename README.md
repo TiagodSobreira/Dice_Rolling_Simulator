@@ -1,2 +1,2 @@
 # Dice_Rolling_Simulator
-Dice rolling simulator: simple miniproject in Python that simulates the roll of a dice. 
+Simple miniproject in Python that simulates the roll of a dice. 
